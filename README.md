@@ -1,8 +1,8 @@
-- 👋 Hi, I’m Shayan Saeed
-- 👀 I’m a Web Frontend Developer
-- 🌱 I’m currently learning Web Development 
-- 💞️ I’m looking to collaborate on projects
-- 📫 How to reach me Whatsapp:03330373591
+👋 Hi, I’m Shayan Saeed
+I’m a Web Frontend Developer
+I’m currently learning Web Development 
+Looking to collaborate on projects?
+📫 How to reach me Whatsapp: 03330373591
 
 <!---
 Shayan-saeed/Shayan-saeed is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
