@@ -1,5 +1,5 @@
 👋 Hi, I’m Shayan Saeed
-I’m a Web Frontend Developer 
+I’m a Software Developer 
 Looking to collaborate on projects?
 📫 How to reach me Whatsapp: 03330373591
 
