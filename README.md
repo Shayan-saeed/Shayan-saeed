@@ -1,6 +1,5 @@
 👋 Hi, I’m Shayan Saeed
-I’m a Web Frontend Developer
-I’m currently learning Web Development 
+I’m a Web Frontend Developer 
 Looking to collaborate on projects?
 📫 How to reach me Whatsapp: 03330373591
 
